@@ -1,0 +1,16 @@
+{
+  "name": "CoolAppName",
+  "version": "0.0.1",
+  "description": "Ready-to-go boilerplate code for quickstarting Node.js servers on Redhat Openshift.",
+  "private": true,
+  "main": "start.js",
+  "scripts": {
+    "start": "node --use_strict start.js",
+    "test": "node --use_strict app.js"
+  },
+  "author": "Gerald Nash <g.nash.dev@gmail.com> (https://aunyks.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
