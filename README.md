@@ -7,6 +7,7 @@ To get started:
 1. Clone the repository
 
 ``git clone https://github.com/aunyks/openshift-express-quickstart.git ``
+
 2. Run the server locally. It will bind to localhost:3000
 
 `` npm test ``
