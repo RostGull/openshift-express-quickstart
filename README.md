@@ -4,12 +4,12 @@ Ready-to-go boilerplate code for quickstarting Node.js servers on Redhat Openshi
 
 To get started:
 
-1. Clone the repository
+1.Clone the repository
 
 ``git clone https://github.com/aunyks/openshift-express-quickstart.git ``
 
-2. Run the server locally. It will bind to localhost:3000
+2.Run the server locally. It will bind to localhost:3000
 
 `` npm test ``
 
-3. Make your changes, then push to your Openshift remote!
+3.Make your changes, then push to your Openshift remote!
