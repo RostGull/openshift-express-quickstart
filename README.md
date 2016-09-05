@@ -1,5 +1,5 @@
 # openshift-express-quickstart
-## by Gerald Nash (https://aunyks.github.io)
+## by Gerald Nash (http://aunyks.com/)
 Ready-to-go boilerplate code for quickstarting Node.js servers on Redhat Openshift.
 
 To get started:
